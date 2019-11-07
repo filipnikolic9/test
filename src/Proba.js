@@ -1,8 +1,10 @@
-const MessageTypeProba = {
-    success: "success",
-    info: "info",
-    warning: "warning",
-    error: "danger"
-}
+import React from 'react';
+import { View } from 'react-native';
 
-export default MessageTypeProba;
+
+export default function Pagination() {
+
+  return (
+    <View>cao cao</View>
+  );
+}
