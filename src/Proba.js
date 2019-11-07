@@ -1,0 +1,1 @@
+const retard="Vido";
