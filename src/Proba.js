@@ -1,1 +1,1 @@
-const retard="Vido";
+export default retard="Vido";
