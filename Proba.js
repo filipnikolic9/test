@@ -1,1 +1,0 @@
-const retard = 'Ipak Vido3';
